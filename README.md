@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23175592&size=18&center=true&vCenter=true&multiline=true&width=600&height=400&lines=git+config+--global+user.name+%22Nirvana+Persaud%22)](https://git.io/typing-svg)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nirvanapersaud&show_icons=true&theme=buefy)
+
 
 <!--
 **nirvanapersaud/nirvanapersaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nirvanapersaud&show_icons=true&theme=buefy)
+
+
+
